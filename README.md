@@ -2,7 +2,7 @@
 ---
 
 ## httprepl
-> __Note__
+> __Note__ <br />
 https://learn.microsoft.com/en-us/aspnet/core/web-api/http-repl/?view=aspnetcore-6.0&tabs=macos <br />
 Use Dotnet 6.0 <br />
 
@@ -17,7 +17,7 @@ Use Dotnet 6.0 <br />
 ---
 
 ## Postman
-> __Note__
+> __Note__ <br />
 Use Postman to connection -> example post JSON <br />
 POST: https://jarnontodo.azurewebsites.net/api/todoitems/ <br /><br />
 
