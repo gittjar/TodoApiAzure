@@ -87,6 +87,24 @@ namespace TodoApi.Controllers
                 ItemToDTO(todoItem));
         }
 
+        [HttpPost("seed")]
+        public ActionResult SeedData()
+        {
+            if (!_context.TodoItems.Any())
+            {
+                _context.TodoItems.AddRange(
+                    new TodoItem { Name = "Go to school every day", IsComplete = false },
+                    new TodoItem { Name = "Do C# coding", IsComplete = false },
+                    new TodoItem { Name = "Brew homemade beer", IsComplete = true },
+                    new TodoItem { Name = "Meet a girlfriend", IsComplete = true },
+                    new TodoItem { Name = "Plan a travel to GB", IsComplete = false }
+                );
+                _context.SaveChanges();
+            }
+
+            return Ok();
+        }
+
         // DELETE: api/TodoItems/5
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteTodoItem(long id)

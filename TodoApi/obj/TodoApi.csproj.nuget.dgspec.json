@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/s2200692/DevOps/TodoApiHostedAzure/TodoApi/TodoApi.csproj": {}
+    "/Users/s2200692/DevOps/Azure/TodoApiHostedAzure/TodoApi/TodoApi.csproj": {}
   },
   "projects": {
-    "/Users/s2200692/DevOps/TodoApiHostedAzure/TodoApi/TodoApi.csproj": {
+    "/Users/s2200692/DevOps/Azure/TodoApiHostedAzure/TodoApi/TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/s2200692/DevOps/TodoApiHostedAzure/TodoApi/TodoApi.csproj",
+        "projectUniqueName": "/Users/s2200692/DevOps/Azure/TodoApiHostedAzure/TodoApi/TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "/Users/s2200692/DevOps/TodoApiHostedAzure/TodoApi/TodoApi.csproj",
+        "projectPath": "/Users/s2200692/DevOps/Azure/TodoApiHostedAzure/TodoApi/TodoApi.csproj",
         "packagesPath": "/Users/s2200692/.nuget/packages/",
-        "outputPath": "/Users/s2200692/DevOps/TodoApiHostedAzure/TodoApi/obj/",
+        "outputPath": "/Users/s2200692/DevOps/Azure/TodoApiHostedAzure/TodoApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/s2200692/.nuget/NuGet/NuGet.Config"
@@ -75,15 +75,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.14, 6.0.14]"
+              "version": "[6.0.26, 6.0.26]"
             },
             {
               "name": "Microsoft.NETCore.App.Host.osx-arm64",
-              "version": "[6.0.14, 6.0.14]"
+              "version": "[6.0.26, 6.0.26]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.14, 6.0.14]"
+              "version": "[6.0.26, 6.0.26]"
             }
           ],
           "frameworkReferences": {
@@ -94,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
         }
       }
     }

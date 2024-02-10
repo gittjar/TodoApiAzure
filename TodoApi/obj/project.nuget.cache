@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YLWY3CinpD4GIR39taAPFzPe17C27iMmUXlEn/ikHajN2bd71LpTGHjeO82TpJDxUn3gjjetMTpfy4qP0qVN9g==",
+  "dgSpecHash": "nC4+9xP5B1iJwNQypqE9PQP/r6yEPHtL1g3tlwpt+fke11JPc0v+7CzpHRYnHL85XeUUeiIGHbpQUlV1ac8FQQ==",
   "success": true,
-  "projectFilePath": "/Users/s2200692/DevOps/TodoApiHostedAzure/TodoApi/TodoApi.csproj",
+  "projectFilePath": "/Users/s2200692/DevOps/Azure/TodoApiHostedAzure/TodoApi/TodoApi.csproj",
   "expectedPackageFiles": [
     "/Users/s2200692/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/s2200692/.nuget/packages/messagepack/2.1.152/messagepack.2.1.152.nupkg.sha512",
@@ -180,9 +180,9 @@
     "/Users/s2200692/.nuget/packages/system.windows.extensions/6.0.0/system.windows.extensions.6.0.0.nupkg.sha512",
     "/Users/s2200692/.nuget/packages/system.xml.readerwriter/4.3.0/system.xml.readerwriter.4.3.0.nupkg.sha512",
     "/Users/s2200692/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512",
-    "/Users/s2200692/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.14/microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
-    "/Users/s2200692/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.14/microsoft.netcore.app.host.osx-arm64.6.0.14.nupkg.sha512",
-    "/Users/s2200692/.nuget/packages/microsoft.netcore.app.ref/6.0.14/microsoft.netcore.app.ref.6.0.14.nupkg.sha512"
+    "/Users/s2200692/.nuget/packages/microsoft.netcore.app.ref/6.0.26/microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "/Users/s2200692/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.26/microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "/Users/s2200692/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.26/microsoft.netcore.app.host.osx-arm64.6.0.26.nupkg.sha512"
   ],
   "logs": []
 }
